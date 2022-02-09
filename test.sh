@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello Travis new"
+echo "Hello Travis ${KOBITON_USERNAME}"

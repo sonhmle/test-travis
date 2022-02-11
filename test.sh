@@ -7,4 +7,4 @@ printf "\n======================================================================
 
 chmod +x ./execute-test/app-ubuntu
 
-./app-ubuntu
+./execute-test/app-ubuntu

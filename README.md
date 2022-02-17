@@ -1,2 +1,1 @@
-# test-travis
-Setup how to use travisci
+# Setup integrating services with Travis CI

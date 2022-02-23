@@ -3,9 +3,9 @@ language: bash
 sudo: required
 
 script:
-  - cd ./samples/upload-app
-  - chmod u+x upload.sh
-  - ./upload.sh
-  - cd ../../samples/execute-test
+  # - cd ./samples/upload-app
+  # - chmod u+x upload.sh
+  # - ./upload.sh
+  - cd ./samples/execute-test
   - chmod u+x test.sh
   - ./test.sh
